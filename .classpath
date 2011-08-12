@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jsf-api.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jsf-impl.jar" sourcepath="C:/Users/Davy/Downloads/AppEngineJsf/jsf-impl-sources.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-1.0-sdk-1.5.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-api-labs-1.5.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/appengine-jsr107cache-1.5.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gson-1.6.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/guava-r09.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jackson-core-asl-1.6.7.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/twitter4j-core-2.1.11.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/google-api-client-1.4.1-beta.jar" sourcepath="C:/Users/Davy/.m2/repository/com/google/api/client/google-api-client/1.4.1-beta/google-api-client-1.4.1-beta-sources.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/google-api-client-googleapis-1.4.1-beta.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
